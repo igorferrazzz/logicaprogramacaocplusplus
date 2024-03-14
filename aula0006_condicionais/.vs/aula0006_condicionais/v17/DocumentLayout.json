@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0006_condicionais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5199C369-2744-48A0-9A00-BC6A2C6D6C94}|aula0006_condicionais\\aula0006_condicionais.vcxproj|C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0006_condicionais\\aula0006_condicionais\\aula0006_condicionais.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5199C369-2744-48A0-9A00-BC6A2C6D6C94}|aula0006_condicionais\\aula0006_condicionais.vcxproj|solutionrelative:aula0006_condicionais\\aula0006_condicionais.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aula0006_condicionais.cpp",
+              "DocumentMoniker": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0006_condicionais\\aula0006_condicionais\\aula0006_condicionais.cpp",
+              "RelativeDocumentMoniker": "aula0006_condicionais\\aula0006_condicionais.cpp",
+              "ToolTip": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0006_condicionais\\aula0006_condicionais\\aula0006_condicionais.cpp",
+              "RelativeToolTip": "aula0006_condicionais\\aula0006_condicionais.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T12:48:47.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

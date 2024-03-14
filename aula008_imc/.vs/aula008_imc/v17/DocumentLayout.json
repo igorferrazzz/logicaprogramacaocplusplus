@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula008_imc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7875C47A-C645-45D1-80E5-804434302686}|aula008_imc\\aula008_imc.vcxproj|C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula008_imc\\aula008_imc\\aula008_imc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7875C47A-C645-45D1-80E5-804434302686}|aula008_imc\\aula008_imc.vcxproj|solutionrelative:aula008_imc\\aula008_imc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aula008_imc.cpp",
+              "DocumentMoniker": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula008_imc\\aula008_imc\\aula008_imc.cpp",
+              "RelativeDocumentMoniker": "aula008_imc\\aula008_imc.cpp",
+              "ToolTip": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula008_imc\\aula008_imc\\aula008_imc.cpp",
+              "RelativeToolTip": "aula008_imc\\aula008_imc.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T11:54:16.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0007_jogoimparpar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECA3BB6-1680-4955-988D-956AF7B57789}|aula0007_jogoimparpar\\aula0007_jogoimparpar.vcxproj|C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0007_jogoimparpar\\aula0007_jogoimparpar\\aula0007_jogoimparpar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ECA3BB6-1680-4955-988D-956AF7B57789}|aula0007_jogoimparpar\\aula0007_jogoimparpar.vcxproj|solutionrelative:aula0007_jogoimparpar\\aula0007_jogoimparpar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aula0007_jogoimparpar.cpp",
+              "DocumentMoniker": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0007_jogoimparpar\\aula0007_jogoimparpar\\aula0007_jogoimparpar.cpp",
+              "RelativeDocumentMoniker": "aula0007_jogoimparpar\\aula0007_jogoimparpar.cpp",
+              "ToolTip": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0007_jogoimparpar\\aula0007_jogoimparpar\\aula0007_jogoimparpar.cpp",
+              "RelativeToolTip": "aula0007_jogoimparpar\\aula0007_jogoimparpar.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T14:00:51.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

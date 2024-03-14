@@ -1,0 +1,5 @@
+﻿  aula0009_rpgjogo.cpp
+C:\Users\24153796\Documents\logicaprogramacaocplusplus\aula0009_rpgjogo\aula0009_rpgjogo\aula0009_rpgjogo.cpp(22,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\24153796\Documents\logicaprogramacaocplusplus\aula0009_rpgjogo\aula0009_rpgjogo\aula0009_rpgjogo.cpp(19,9): warning C4101: 'x': variável local não referenciada
+C:\Users\24153796\Documents\logicaprogramacaocplusplus\aula0009_rpgjogo\aula0009_rpgjogo\aula0009_rpgjogo.cpp(17,9): warning C4101: 'vida': variável local não referenciada
+  aula0009_rpgjogo.vcxproj -> C:\Users\24153796\Documents\logicaprogramacaocplusplus\aula0009_rpgjogo\x64\Debug\aula0009_rpgjogo.exe

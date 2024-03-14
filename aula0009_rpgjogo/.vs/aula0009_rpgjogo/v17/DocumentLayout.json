@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0009_rpgjogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9F7AA5-93B3-438A-996A-CF85306C97A7}|aula0009_rpgjogo\\aula0009_rpgjogo.vcxproj|C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0009_rpgjogo\\aula0009_rpgjogo\\aula0009_rpgjogo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F9F7AA5-93B3-438A-996A-CF85306C97A7}|aula0009_rpgjogo\\aula0009_rpgjogo.vcxproj|solutionrelative:aula0009_rpgjogo\\aula0009_rpgjogo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aula0009_rpgjogo.cpp",
+              "DocumentMoniker": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0009_rpgjogo\\aula0009_rpgjogo\\aula0009_rpgjogo.cpp",
+              "RelativeDocumentMoniker": "aula0009_rpgjogo\\aula0009_rpgjogo.cpp",
+              "ToolTip": "C:\\Users\\24153796\\Documents\\logicaprogramacaocplusplus\\aula0009_rpgjogo\\aula0009_rpgjogo\\aula0009_rpgjogo.cpp",
+              "RelativeToolTip": "aula0009_rpgjogo\\aula0009_rpgjogo.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T17:46:02.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
